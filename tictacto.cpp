@@ -2,7 +2,8 @@
 using namespace std;
 int i=2;
 class tic
-{int x[5],y[5],w[5],z[5];
+{int x[5],y[5],w[5],z[5]; 
+//yo
     public:
 
     void n_step1()
